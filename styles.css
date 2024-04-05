@@ -1,0 +1,42 @@
+h1{
+    color: blueviolet;
+}
+h1:hover{
+color: rgb(225, 65, 78);
+background-color: black;
+
+font-weight: 700px;
+font-style: oblique;
+}
+p{
+    color: red;
+}
+.middle-persion:focus {
+    color: blue;
+    font-weight: 700px;
+}
+a:visited{
+color: red;
+}
+li:first-child{
+    color: chocolate;
+}
+li:last-child{
+    color: red;
+    background-color: blue;
+}
+li:nth-child(2n){
+    color: chartreuse;
+}
+li:nth-child(2n+1){
+    color: orange;
+    background-color: aqua;
+}
+h3::before {
+content: 'hello  ';
+}
+h3::after{
+    content: 'gello ';
+    background-color: rgb(191, 136, 136);
+    font-size: 15px;
+}

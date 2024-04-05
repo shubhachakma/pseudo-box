@@ -1,0 +1,23 @@
+h1{
+    background-color: indianred;
+    border: 30px solid rebeccapurple;
+    margin: 10px;
+    padding: 10px;
+}
+span{
+    background-color: greenyellow;
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+}
+div{
+    background-color: tomato;
+    width: 300px;
+    height: 250px;
+    padding-top: 35px;
+    margin-top: 50px;
+}
+h2{
+    background-color: darkcyan;
+}
+p{background-color: aquamarine;}
